@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**aadi1irl/Aadi1IRL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Aditya 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Turning ideas into code.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### About Me
+
+- 🌱 Currently learning JavaScript
+- 💻 Interested in Web Development
+- 🎮 Minecraft & Game Development enthusiast
+- 🚀 Learning by building projects
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+### GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=aadi1irl&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Always learning. Always building.</i>
+</p>
