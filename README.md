@@ -43,13 +43,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadi1irl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160"/>
 </p>
 
-### 🎯 CURRENT QUEST
 
-- [ ] Master C#
-- [ ] Learn Unity Game Development
-- [ ] Build my first original game
-- [ ] Create my own game studio
-- [ ] Leave my mark in the gaming world
+### 🏴‍☠️ THE PIRATE'S CODEX
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DREAM-Become%20the%20Greatest%20Game%20Dev-8A2BE2?style=for-the-badge"/>
+</p>
+
+- ⚔️ Creativity is my strongest weapon.
+- 🌊 Exploring endless possibilities through code.
+- 💻 Building worlds, one line at a time.
+- ☠️ Never giving up on the dream.
+
+<p align="center">
+  <i>"Inherited will, the destiny of an age, and the dreams of its people."</i>
+</p>
 
 ---
 
