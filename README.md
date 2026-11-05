@@ -2,22 +2,24 @@
 <h1 align="center">Hey, I'm Aditya 👋</h1>
 
 <p align="center">
-  Turning ideas into code.
+  Aspiring Game Developer.
+  <br>
+  I want to become the greatest game developer.
 </p>
 
 ---
 
 ### About Me
 
-- 🌱 Currently learning JavaScript
-- 💻 Interested in Web Development
-- 🎮 Minecraft & Game Development enthusiast
-- 🚀 Learning by building projects
+- 🎮 Passionate about Game Development
+- 🌱 Learning C#, Unity & JavaScript
+- 💻 Exploring Web Development
+- 🚀 Building ideas into reality
 
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cs,unity,git,github,vscode" />
 </p>
 
 ### GitHub Stats
@@ -29,5 +31,5 @@
 ---
 
 <p align="center">
-  <i>Always learning. Always building.</i>
+  <i>Dream big. Build bigger.</i>
 </p>
